@@ -1,0 +1,25 @@
+.contact-container {
+    background-image: url('https://i.pinimg.com/originals/01/2f/76/012f769629441a1d9c74a69408c57cc5.gif');
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center; 
+}
+
+.contact-heading {
+    color: yellow; /* Change the color to yellow */
+    font-weight: bold; /* Make the heading bold */
+}
+
+.form-label {
+    color: rgb(244, 13, 48); /* Change the color of the form labels */
+    font-weight: bold; /* Make the form labels bold */
+}
+
+/* Center the submit button */
+.btn-primary {
+    margin-top: 20px; /* Add some top margin for spacing */
+}
+
+.btn-center {
+    display: block;
+    margin: auto; /* Center the button horizontally */
+}

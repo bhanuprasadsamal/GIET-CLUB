@@ -1,0 +1,13 @@
+.join-container{
+    background-image: url('https://i.pinimg.com/originals/01/2f/76/012f769629441a1d9c74a69408c57cc5.gif');
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center; 
+}
+.joins{
+    color: rgb(6, 237, 75);
+    font-weight: bold;
+}
+.btn-center {
+    display: block;
+    margin: auto;
+}

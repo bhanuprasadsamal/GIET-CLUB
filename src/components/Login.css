@@ -1,0 +1,60 @@
+.login {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif');
+    background-size: cover;
+}
+
+.login h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: azure;
+}
+
+.login form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login input {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.login input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+.login input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.login p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: azure;
+}
+
+.login a {
+    text-decoration: none;
+    color: #2196F3;
+    font-weight: bold;
+}
+
+.login a:hover {
+    text-decoration: underline;
+}
+.body{
+    background-image: url('https://media0.giphy.com/media/FMsbSSjEe0N6zH7K7x/200w.gif?cid=6c09b952fqaf7d9uqikg15qn5til0ixc69vnn70vbqehpjqs&ep=v1_gifs_search&rid=200w.gif&ct=g');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}

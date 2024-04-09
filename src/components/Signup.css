@@ -1,0 +1,77 @@
+.login {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.login h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.login form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login input {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.login input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+.login input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.login p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.login a {
+    text-decoration: none;
+    color: #2196F3;
+    font-weight: bold;
+}
+
+.login a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for the SweetAlert dialog */
+.swal-title {
+    color: #ff5349; /* Custom color for the warning title */
+}
+
+.swal-text {
+    color: #666;
+}
+
+.swal-button--confirm {
+    background-color: #4caf50;
+    color: white;
+}
+
+.swal-button--confirm:hover {
+    background-color: #45a049;
+}
+
+.swal-button--danger {
+    background-color: #ff5349;
+    color: white;
+}
+
+.swal-button--danger:hover {
+    background-color: #e44d3a;
+}
