@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GIET-CLUB/static/css/main.60ae4667.css",
+    "main.js": "/GIET-CLUB/static/js/main.dc946108.js",
+    "static/js/453.65673258.chunk.js": "/GIET-CLUB/static/js/453.65673258.chunk.js",
+    "index.html": "/GIET-CLUB/index.html",
+    "main.60ae4667.css.map": "/GIET-CLUB/static/css/main.60ae4667.css.map",
+    "main.dc946108.js.map": "/GIET-CLUB/static/js/main.dc946108.js.map",
+    "453.65673258.chunk.js.map": "/GIET-CLUB/static/js/453.65673258.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60ae4667.css",
+    "static/js/main.dc946108.js"
+  ]
+}
